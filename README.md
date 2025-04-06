@@ -1,6 +1,7 @@
-**todo:**  
-- add evaluate to evaluate the parsed expression using AST
-- add tests
+**task list:**  
+- [x] PEST parser
+- [ ] add evaluate to evaluate the parsed expression using AST
+- [ ] add tests
 
 **build:**    
 ```cargo build```
