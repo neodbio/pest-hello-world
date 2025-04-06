@@ -1,11 +1,11 @@
-todo:  
+**todo:**  
 - add evaluate to evaluate the parsed expression using AST
 - add tests
 
-Build:  
+**build:**    
 ```cargo build```
 
-Run:  
+**run:**  
 ```cargo run```
 
 Example output
