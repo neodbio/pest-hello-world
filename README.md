@@ -1,8 +1,12 @@
-Build
-`cargo build`
+todo:  
+- add evaluate to evaluate the parsed expression using AST
+- add tests
 
-Run
-`cargo run`
+Build:  
+```cargo build```
+
+Run:  
+```cargo run```
 
 Example output
 
