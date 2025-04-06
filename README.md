@@ -1,3 +1,5 @@
+[![Build Status](https://github.com/neodbio/pest-hello-world/actions/workflows/build.yml/badge.svg)](https://github.com/neodbio/pest-hello-world/actions)
+
 **task list:**  
 - [x] PEST parser
 - [ ] add evaluate to evaluate the parsed expression using AST
